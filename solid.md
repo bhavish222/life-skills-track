@@ -262,8 +262,4 @@ class Coach {
 
 3. [SOLID Principles by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - Articles written by Robert C. Martin (Uncle Bob) himself provide valuable insights into SOLID principles.
 
-4. [SOLID Principles in Real Life on Medium](https://medium.com/@anuradha.raina/solid-principles-in-real-life-52537e327ac5) - This Medium article illustrates how SOLID principles can be applied in real-world scenarios, making it easier to understand their practical implications.
-
-
-
 Hope by this you'll get good idea of SOLID principles. This references will also help you get the point and also, Its way too nice if you try to implement it by yourself. Understanding and applying these principles can assist programmers in designing more flexible and easier-to-maintain source code. 
